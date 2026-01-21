@@ -1,5 +1,5 @@
 import numpy as np
-import matplotlib.pylot as plt 
+import matplotlib.pyplot as plt 
 #imports both mathplot and numpy which are neccesary for making the graph
 
 x = np.random.rand(15) 
