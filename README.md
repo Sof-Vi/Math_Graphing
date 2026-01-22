@@ -1,7 +1,7 @@
 # **Math_Graphing**
 
 ## Purpose
-This project explores **multivariable graphing** as a foundation for future **curve fitting** graphing. The goal is to visualize how variables interact in 2D and 3D spaces thus gradually build toward modeling data with functions.
+This project explores **multivariable graphing** as a foundation for future **curve fitting** graphing. The goal is to visualize how variables interact in 2D spaces gradually building towards modeling data with functions.
 ## Current state of the project
 - Creating **scatter plots** for randomly generated data points (January 21, 2026.)
 
