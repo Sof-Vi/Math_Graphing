@@ -1,0 +1,2 @@
+Scatter plots: 
+  NeuralNine. (2019, December 22). Python Data Science Tutorial #10 - Scatter Plots with Matplotlib [Video]. YouTube. https://www.youtube.com/watch?v=odIew8qp0IA
