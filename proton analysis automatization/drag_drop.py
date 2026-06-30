@@ -93,12 +93,10 @@ def autofit(ws):
 
 def create_excel(txt_path):
 
-    txt_path = Path(txt_path)
+    txt_path = Path(txt_path).expanduser().resolve()
 
-    output = (
-        txt_path.parent
-        / f"{txt_path.stem}{OUTPUT_SUFFIX}"
-    )
+    if not txt_path.exists():
+        raise FileNotFoundError(f"File not found after resolving path: {txt_path}")
 
     wb = Workbook()
     ws = wb.active
@@ -107,10 +105,10 @@ def create_excel(txt_path):
     ws.append(HEADERS)
 
     with open(
-        txt_path,
-        "r",
-        encoding="utf-8",
-        errors="ignore"
+            txt_path,
+            "r",
+            encoding="utf-8",
+            errors="ignore"
     ) as f:
 
         for line in f:
@@ -128,14 +126,14 @@ def create_excel(txt_path):
     last_col = ws.max_column
 
     table = Table(
-        displayName="FRAM_Table",
-        ref=f"A1:{get_column_letter(last_col)}{last_row}"
+            displayName="FRAM_Table",
+            ref=f"A1:{get_column_letter(last_col)}{last_row}"
     )
 
     style = TableStyleInfo(
-        name="TableStyleMedium2",
-        showRowStripes=True,
-        showColumnStripes=False
+            name="TableStyleMedium2",
+            showRowStripes=True,
+            showColumnStripes=False
     )
 
     table.tableStyleInfo = style
@@ -144,10 +142,13 @@ def create_excel(txt_path):
     # Autofit columns
     autofit(ws)
 
-    wb.save(output)
+    output = txt_path.stem + OUTPUT_SUFFIX
+    output_path = txt_path.parent / output
+
+    wb.save(output_path)
 
     print(f"\nDone!")
-    print(output)
+    print(output_path)
 
 
 if __name__ == "__main__":
@@ -156,7 +157,7 @@ if __name__ == "__main__":
 
         print(
             "\nDrag TXT file into terminal:\n"
-            "python organize_fram_excel.py your_log.txt"
+            "python drag_drop.py your_log.txt"
         )
 
     else:
