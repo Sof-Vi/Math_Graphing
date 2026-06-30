@@ -16,16 +16,16 @@ pattern = re.compile(
     (?P<datetime>\d{4}-\d{2}-\d{2}\s+\d+:\d+:\d+\.\d+)
     ,\s*
     (?P<event>\[.*?\])
-    \s*
+    .*?
     (?P<mev>0x[0-9A-Fa-f]+)?
     .*?
-    (?:expected_data=(?P<expected>\d+))?
+    expected_data\s*=\s*(?P<expected>[^\s,]+)?
     .*?
-    (?:Read_Data=(?P<read>\d+))?
+    Read_Data\s*=\s*(?P<read>[^\s,]+)?
     .*?
-    (?:err=(?P<err>\d+))?
+    err\s*=\s*(?P<err>\d+)?
     """,
-    re.VERBOSE,
+    re.VERBOSE | re.IGNORECASE,
 )
 
 HEADERS = [
@@ -42,30 +42,62 @@ def parse_line(line):
 
     row = ["", "", "", "", "", 0]
 
-    match = pattern.search(line)
+    # Date
+    dt = re.search(
+        r"\d{4}-\d{2}-\d{2}\s+\d+:\d+:\d+\.\d+",
+        line
+    )
 
-    if match:
+    if dt:
+        row[0] = dt.group()
 
-        row[0] = match.group("datetime")
-        row[1] = match.group("event")
-        row[2] = match.group("mev") or ""
-        row[3] = match.group("expected") or ""
-        row[4] = match.group("read") or ""
+    # Event
+    event = re.search(
+        r"\[[^\]]+\]",
+        line
+    )
 
-        err = match.group("err")
+    if event:
+        row[1] = event.group()
 
-        if err:
-            row[5] = 1 if int(err) > 0 else 0
+    # MEV (0x + 3–4 hex chars)
+    mev = re.search(
+        r"\b0x[0-9A-Fa-f]{3,4}\b",
+        line
+    )
 
-        return row
+    if mev:
+        row[2] = mev.group()
 
-    # fallback for START/DONE/WATCHDOG
+    # Expected data
+    expected = re.search(
+        r"expected_data\s*=\s*([^\s,]+)",
+        line,
+        re.IGNORECASE
+    )
 
-    parts = line.split(",", 1)
+    if expected:
+        row[3] = expected.group(1)
 
-    if len(parts) == 2:
-        row[0] = parts[0].strip()
-        row[1] = parts[1].strip()
+    # Read data
+    read = re.search(
+        r"Read_Data\s*=\s*([^\s,]+)",
+        line,
+        re.IGNORECASE
+    )
+
+    if read:
+        row[4] = read.group(1)
+
+    # Error
+    err = re.search(
+        r"err\s*=\s*(\d+)",
+        line,
+        re.IGNORECASE
+    )
+
+    if err:
+        row[5] = 1 if int(err.group(1)) > 0 else 0
 
     return row
 
@@ -157,7 +189,7 @@ if __name__ == "__main__":
 
         print(
             "\nDrag TXT file into terminal:\n"
-            "python drag_drop.py your_log.txt"
+            "python drag_drop.py [insert the path inside the repo to the txt file]"
         )
 
     else:

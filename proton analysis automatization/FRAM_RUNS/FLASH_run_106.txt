@@ -1,0 +1,453 @@
+2026-05-04 12:24:08.140, [FLASH ERASE] START
+2026-05-04 12:24:09.801, [FLASH BUSY]
+2026-05-04 12:24:11.796, [FLASH BUSY]
+2026-05-04 12:24:13.815, [FLASH BUSY]
+2026-05-04 12:24:15.808, [FLASH BUSY]
+2026-05-04 12:24:17.808, [FLASH BUSY]
+2026-05-04 12:24:19.798, [FLASH BUSY]
+2026-05-04 12:24:21.814, [FLASH BUSY]
+2026-05-04 12:24:23.808, [FLASH BUSY]
+2026-05-04 12:24:25.810, [FLASH BUSY]
+2026-05-04 12:24:27.798, [FLASH BUSY]
+2026-05-04 12:24:29.808, [FLASH BUSY]
+2026-05-04 12:24:31.805, [FLASH BUSY]
+2026-05-04 12:24:33.831, [FLASH BUSY]
+2026-05-04 12:24:35.829, [FLASH BUSY]
+2026-05-04 12:24:37.795, [FLASH BUSY]
+2026-05-04 12:24:39.825, [FLASH BUSY]
+2026-05-04 12:24:41.817, [FLASH BUSY]
+2026-05-04 12:24:43.811, [FLASH BUSY]
+2026-05-04 12:24:45.833, [FLASH BUSY]
+2026-05-04 12:24:47.824, [FLASH BUSY]
+2026-05-04 12:24:48.913, [FLASH ERASE] DONE
+2026-05-04 12:24:48.944, [FLASH WRITE] START
+2026-05-04 12:24:48.946, [FLASH WRITE] 0x0
+2026-05-04 12:24:49.627, [FLASH WRITE] 0x10000
+2026-05-04 12:24:50.279, [FLASH WRITE] 0x20000
+2026-05-04 12:24:50.965, [FLASH WRITE] 0x30000
+2026-05-04 12:24:51.654, [FLASH WRITE] 0x40000
+2026-05-04 12:24:52.307, [FLASH WRITE] 0x50000
+2026-05-04 12:24:52.996, [FLASH WRITE] 0x60000
+2026-05-04 12:24:53.693, [FLASH WRITE] 0x70000
+2026-05-04 12:24:54.346, [FLASH WRITE] 0x80000
+2026-05-04 12:24:55.033, [FLASH WRITE] 0x90000
+2026-05-04 12:24:55.712, [FLASH WRITE] 0xA0000
+2026-05-04 12:24:56.371, [FLASH WRITE] 0xB0000
+2026-05-04 12:24:57.071, [FLASH WRITE] 0xC0000
+2026-05-04 12:24:57.769, [FLASH WRITE] 0xD0000
+2026-05-04 12:24:58.432, [FLASH WRITE] 0xE0000
+2026-05-04 12:24:59.103, [FLASH WRITE] 0xF0000
+2026-05-04 12:24:59.775, [FLASH WRITE] 0x100000
+2026-05-04 12:25:00.449, [FLASH WRITE] 0x110000
+2026-05-04 12:25:01.132, [FLASH WRITE] 0x120000
+2026-05-04 12:25:01.822, [FLASH WRITE] 0x130000
+2026-05-04 12:25:02.476, [FLASH WRITE] 0x140000
+2026-05-04 12:25:03.165, [FLASH WRITE] 0x150000
+2026-05-04 12:25:03.835, [FLASH WRITE] 0x160000
+2026-05-04 12:25:04.518, [FLASH WRITE] 0x170000
+2026-05-04 12:25:05.204, [FLASH WRITE] 0x180000
+2026-05-04 12:25:05.859, [FLASH WRITE] 0x190000
+2026-05-04 12:25:06.575, [FLASH WRITE] 0x1A0000
+2026-05-04 12:25:07.233, [FLASH WRITE] 0x1B0000
+2026-05-04 12:25:07.918, [FLASH WRITE] 0x1C0000
+2026-05-04 12:25:08.580, [FLASH WRITE] 0x1D0000
+2026-05-04 12:25:09.297, [FLASH WRITE] 0x1E0000
+2026-05-04 12:25:09.950, [FLASH WRITE] 0x1F0000
+2026-05-04 12:25:10.640, [FLASH WRITE] 0x200000
+2026-05-04 12:25:11.296, [FLASH WRITE] 0x210000
+2026-05-04 12:25:11.981, [FLASH WRITE] 0x220000
+2026-05-04 12:25:12.668, [FLASH WRITE] 0x230000
+2026-05-04 12:25:13.352, [FLASH WRITE] 0x240000
+2026-05-04 12:25:14.021, [FLASH WRITE] 0x250000
+2026-05-04 12:25:14.684, [FLASH WRITE] 0x260000
+2026-05-04 12:25:15.376, [FLASH WRITE] 0x270000
+2026-05-04 12:25:16.060, [FLASH WRITE] 0x280000
+2026-05-04 12:25:16.718, [FLASH WRITE] 0x290000
+2026-05-04 12:25:17.405, [FLASH WRITE] 0x2A0000
+2026-05-04 12:25:18.094, [FLASH WRITE] 0x2B0000
+2026-05-04 12:25:18.751, [FLASH WRITE] 0x2C0000
+2026-05-04 12:25:19.440, [FLASH WRITE] 0x2D0000
+2026-05-04 12:25:20.096, [FLASH WRITE] 0x2E0000
+2026-05-04 12:25:20.800, [FLASH WRITE] 0x2F0000
+2026-05-04 12:25:21.489, [FLASH WRITE] 0x300000
+2026-05-04 12:25:22.163, [FLASH WRITE] 0x310000
+2026-05-04 12:25:22.826, [FLASH WRITE] 0x320000
+2026-05-04 12:25:23.511, [FLASH WRITE] 0x330000
+2026-05-04 12:25:24.181, [FLASH WRITE] 0x340000
+2026-05-04 12:25:24.883, [FLASH WRITE] 0x350000
+2026-05-04 12:25:25.553, [FLASH WRITE] 0x360000
+2026-05-04 12:25:26.228, [FLASH WRITE] 0x370000
+2026-05-04 12:25:26.921, [FLASH WRITE] 0x380000
+2026-05-04 12:25:27.577, [FLASH WRITE] 0x390000
+2026-05-04 12:25:28.252, [FLASH WRITE] 0x3A0000
+2026-05-04 12:25:28.935, [FLASH WRITE] 0x3B0000
+2026-05-04 12:25:29.621, [FLASH WRITE] 0x3C0000
+2026-05-04 12:25:30.282, [FLASH WRITE] 0x3D0000
+2026-05-04 12:25:30.951, [FLASH WRITE] 0x3E0000
+2026-05-04 12:25:31.639, [FLASH WRITE] 0x3F0000
+2026-05-04 12:25:32.337, [FLASH WRITE] DONE
+2026-05-04 12:25:42.603, [WATCHDOG][FLASH] no data for 10s
+2026-05-04 12:28:07.858, [FLASH READ STATUS] 0x8000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:07.862, [FLASH READ STATUS] 0x8001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:07.890, [FLASH READ STATUS] 0x8002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:07.922, [FLASH READ STATUS] 0x8003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:07.926, [FLASH READ STATUS] 0xA000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:07.954, [FLASH READ STATUS] 0xA001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:07.985, [FLASH READ STATUS] 0xA002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:08.016, [FLASH READ STATUS] 0xA003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:08.020, [FLASH READ STATUS] 0xC000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:08.048, [FLASH READ STATUS] 0xC001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:08.080, [FLASH READ STATUS] 0xC002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:08.084, [FLASH READ STATUS] 0xC003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:08.109, [FLASH READ STATUS] 0xE000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:08.140, [FLASH READ STATUS] 0xE001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:08.145, [FLASH READ STATUS] 0xE002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:08.171, [FLASH READ STATUS] 0xE003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:08.202, [FLASH READ STATUS] 0x10000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:08.232, [FLASH READ STATUS] 0x10001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:08.236, [FLASH READ STATUS] 0x10002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:08.264, [FLASH READ STATUS] 0x10003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:08.294, [FLASH READ] 0x10000 err=0 Total_err=80958
+2026-05-04 12:28:08.298, [FLASH READ STATUS] 0x12000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:08.326, [FLASH READ STATUS] 0x12001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:08.356, [FLASH READ STATUS] 0x12002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:08.360, [FLASH READ STATUS] 0x12003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:08.387, [FLASH READ STATUS] 0x14000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:08.420, [FLASH READ STATUS] 0x14001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:08.451, [FLASH READ STATUS] 0x14002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:08.454, [FLASH READ STATUS] 0x14003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:08.482, [FLASH READ STATUS] 0x16000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:08.507, [FLASH READ STATUS] 0x16001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:08.538, [FLASH READ STATUS] 0x16002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:08.542, [FLASH READ STATUS] 0x16003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:08.570, [FLASH READ STATUS] 0x18000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:08.602, [FLASH READ STATUS] 0x18001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:08.606, [FLASH READ STATUS] 0x18002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:08.634, [FLASH READ STATUS] 0x18003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:08.665, [FLASH READ STATUS] 0x1A000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:08.668, [FLASH READ STATUS] 0x1A001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:08.697, [FLASH READ STATUS] 0x1A002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:08.727, [FLASH READ STATUS] 0x1A003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:08.731, [FLASH READ STATUS] 0x1C000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:08.758, [FLASH READ STATUS] 0x1C001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:08.789, [FLASH READ STATUS] 0x1C002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:08.820, [FLASH READ STATUS] 0x1C003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:08.824, [FLASH READ STATUS] 0x1E000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:08.853, [FLASH READ STATUS] 0x1E001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:08.883, [FLASH READ STATUS] 0x1E002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:08.887, [FLASH READ STATUS] 0x1E003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:08.914, [FLASH READ STATUS] 0x20000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:08.946, [FLASH READ STATUS] 0x20001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:08.951, [FLASH READ STATUS] 0x20002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:08.977, [FLASH READ STATUS] 0x20003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:09.007, [FLASH READ] 0x20000 err=0 Total_err=80958
+2026-05-04 12:28:09.039, [FLASH READ STATUS] 0x22000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:09.042, [FLASH READ STATUS] 0x22001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:09.070, [FLASH READ STATUS] 0x22002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:09.102, [FLASH READ STATUS] 0x22003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:09.106, [FLASH READ STATUS] 0x24000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:09.134, [FLASH READ STATUS] 0x24001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:09.165, [FLASH READ STATUS] 0x24002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:09.169, [FLASH READ STATUS] 0x24003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:09.196, [FLASH READ STATUS] 0x26000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:09.228, [FLASH READ STATUS] 0x26001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:09.232, [FLASH READ STATUS] 0x26002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:09.260, [FLASH READ STATUS] 0x26003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:09.291, [FLASH READ STATUS] 0x28000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:09.323, [FLASH READ STATUS] 0x28001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:09.327, [FLASH READ STATUS] 0x28002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:09.353, [FLASH READ STATUS] 0x28003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:09.384, [FLASH READ STATUS] 0x2A000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:09.388, [FLASH READ STATUS] 0x2A001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:09.415, [FLASH READ STATUS] 0x2A002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:09.446, [FLASH READ STATUS] 0x2A003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:09.449, [FLASH READ STATUS] 0x2C000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:09.477, [FLASH READ STATUS] 0x2C001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:09.496, [FLASH READ STATUS] 0x2C002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:09.524, [FLASH READ STATUS] 0x2C003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:09.555, [FLASH READ STATUS] 0x2E000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:09.558, [FLASH READ STATUS] 0x2E001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:09.586, [FLASH READ STATUS] 0x2E002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:09.616, [FLASH READ STATUS] 0x2E003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:09.646, [FLASH READ STATUS] 0x30000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:09.653, [FLASH READ STATUS] 0x30001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:09.678, [FLASH READ STATUS] 0x30002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:09.710, [FLASH READ STATUS] 0x30003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:09.713, [FLASH READ] 0x30000 err=0 Total_err=80958
+2026-05-04 12:28:09.741, [FLASH READ STATUS] 0x32000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:09.771, [FLASH READ STATUS] 0x32001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:09.775, [FLASH READ STATUS] 0x32002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:09.802, [FLASH READ STATUS] 0x32003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:09.835, [FLASH READ STATUS] 0x34000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:09.867, [FLASH READ STATUS] 0x34001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:09.870, [FLASH READ STATUS] 0x34002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:09.898, [FLASH READ STATUS] 0x34003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:09.929, [FLASH READ STATUS] 0x36000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:09.932, [FLASH READ STATUS] 0x36001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:09.960, [FLASH READ STATUS] 0x36002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:09.992, [FLASH READ STATUS] 0x36003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:09.999, [FLASH READ STATUS] 0x38000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:10.024, [FLASH READ STATUS] 0x38001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:10.055, [FLASH READ STATUS] 0x38002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:10.059, [FLASH READ STATUS] 0x38003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:10.088, [FLASH READ STATUS] 0x3A000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:10.117, [FLASH READ STATUS] 0x3A001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:10.122, [FLASH READ STATUS] 0x3A002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:10.148, [FLASH READ STATUS] 0x3A003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:10.180, [FLASH READ STATUS] 0x3C000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:10.212, [FLASH READ STATUS] 0x3C001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:10.217, [FLASH READ STATUS] 0x3C002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:10.243, [FLASH READ STATUS] 0x3C003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:10.275, [FLASH READ STATUS] 0x3E000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:10.278, [FLASH READ STATUS] 0x3E001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:10.306, [FLASH READ STATUS] 0x3E002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:10.337, [FLASH READ STATUS] 0x3E003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:10.341, [FLASH READ STATUS] 0x40000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:10.370, [FLASH READ STATUS] 0x40001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:10.401, [FLASH READ STATUS] 0x40002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:10.406, [FLASH READ STATUS] 0x40003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:10.434, [FLASH READ] 0x40000 err=0 Total_err=80958
+2026-05-04 12:28:10.465, [FLASH READ STATUS] 0x42000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:10.469, [FLASH READ STATUS] 0x42001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:10.497, [FLASH READ STATUS] 0x42002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:10.525, [FLASH READ STATUS] 0x42003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:10.558, [FLASH READ STATUS] 0x44000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:10.561, [FLASH READ STATUS] 0x44001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:10.590, [FLASH READ STATUS] 0x44002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:10.621, [FLASH READ STATUS] 0x44003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:10.626, [FLASH READ STATUS] 0x46000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:10.651, [FLASH READ STATUS] 0x46001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:10.682, [FLASH READ STATUS] 0x46002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:10.686, [FLASH READ STATUS] 0x46003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:10.713, [FLASH READ STATUS] 0x48000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:10.744, [FLASH READ STATUS] 0x48001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:10.776, [FLASH READ STATUS] 0x48002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:10.781, [FLASH READ STATUS] 0x48003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:10.808, [FLASH READ STATUS] 0x4A000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:10.839, [FLASH READ STATUS] 0x4A001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:10.843, [FLASH READ STATUS] 0x4A002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:10.871, [FLASH READ STATUS] 0x4A003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:10.902, [FLASH READ STATUS] 0x4C000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:10.907, [FLASH READ STATUS] 0x4C001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:10.933, [FLASH READ STATUS] 0x4C002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:10.964, [FLASH READ STATUS] 0x4C003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:10.995, [FLASH READ STATUS] 0x4E000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:10.999, [FLASH READ STATUS] 0x4E001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:11.027, [FLASH READ STATUS] 0x4E002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:11.059, [FLASH READ STATUS] 0x4E003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:11.063, [FLASH READ STATUS] 0x50000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:11.091, [FLASH READ STATUS] 0x50001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:11.120, [FLASH READ STATUS] 0x50002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:11.125, [FLASH READ STATUS] 0x50003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:11.152, [FLASH READ] 0x50000 err=0 Total_err=80958
+2026-05-04 12:28:11.184, [FLASH READ STATUS] 0x52000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:11.188, [FLASH READ STATUS] 0x52001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:11.215, [FLASH READ STATUS] 0x52002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:11.246, [FLASH READ STATUS] 0x52003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:11.250, [FLASH READ STATUS] 0x54000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:11.278, [FLASH READ STATUS] 0x54001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:11.310, [FLASH READ STATUS] 0x54002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:11.341, [FLASH READ STATUS] 0x54003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:11.345, [FLASH READ STATUS] 0x56000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:11.371, [FLASH READ STATUS] 0x56001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:11.401, [FLASH READ STATUS] 0x56002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:11.405, [FLASH READ STATUS] 0x56003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:11.433, [FLASH READ STATUS] 0x58000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:11.464, [FLASH READ STATUS] 0x58001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:11.499, [FLASH READ STATUS] 0x58002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:11.503, [FLASH READ STATUS] 0x58003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:11.541, [FLASH READ STATUS] 0x5A000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:11.546, [FLASH READ STATUS] 0x5A001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:11.572, [FLASH READ STATUS] 0x5A002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:11.579, [FLASH READ STATUS] 0x5A003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:11.603, [FLASH READ STATUS] 0x5C000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:11.634, [FLASH READ STATUS] 0x5C001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:11.665, [FLASH READ STATUS] 0x5C002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:11.668, [FLASH READ STATUS] 0x5C003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:11.696, [FLASH READ STATUS] 0x5E000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:11.728, [FLASH READ STATUS] 0x5E001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:11.732, [FLASH READ STATUS] 0x5E002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:11.759, [FLASH READ STATUS] 0x5E003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:11.790, [FLASH READ STATUS] 0x60000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:11.821, [FLASH READ STATUS] 0x60001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:11.826, [FLASH READ STATUS] 0x60002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:11.853, [FLASH READ STATUS] 0x60003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:11.884, [FLASH READ] 0x60000 err=0 Total_err=80958
+2026-05-04 12:28:11.887, [FLASH READ STATUS] 0x62000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:11.916, [FLASH READ STATUS] 0x62001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:11.946, [FLASH READ STATUS] 0x62002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:11.950, [FLASH READ STATUS] 0x62003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:11.977, [FLASH READ STATUS] 0x64000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:12.009, [FLASH READ STATUS] 0x64001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:12.013, [FLASH READ STATUS] 0x64002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:12.040, [FLASH READ STATUS] 0x64003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:12.071, [FLASH READ STATUS] 0x66000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:12.102, [FLASH READ STATUS] 0x66001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:12.107, [FLASH READ STATUS] 0x66002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:12.134, [FLASH READ STATUS] 0x66003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:12.165, [FLASH READ STATUS] 0x68000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:12.169, [FLASH READ STATUS] 0x68001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:12.196, [FLASH READ STATUS] 0x68002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:12.227, [FLASH READ STATUS] 0x68003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:12.257, [FLASH READ STATUS] 0x6A000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:12.261, [FLASH READ STATUS] 0x6A001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:12.289, [FLASH READ STATUS] 0x6A002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:12.319, [FLASH READ STATUS] 0x6A003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:12.322, [FLASH READ STATUS] 0x6C000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:12.351, [FLASH READ STATUS] 0x6C001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:12.383, [FLASH READ STATUS] 0x6C002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:12.386, [FLASH READ STATUS] 0x6C003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:12.422, [FLASH READ STATUS] 0x6E000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:12.453, [FLASH READ STATUS] 0x6E001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:12.459, [FLASH READ STATUS] 0x6E002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:12.485, [FLASH READ STATUS] 0x6E003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:12.514, [FLASH READ STATUS] 0x70000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:12.518, [FLASH READ STATUS] 0x70001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:12.546, [FLASH READ STATUS] 0x70002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:12.579, [FLASH READ STATUS] 0x70003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:12.582, [FLASH READ] 0x70000 err=0 Total_err=80958
+2026-05-04 12:28:12.609, [FLASH READ STATUS] 0x72000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:12.640, [FLASH READ STATUS] 0x72001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:12.672, [FLASH READ STATUS] 0x72002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:12.676, [FLASH READ STATUS] 0x72003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:12.703, [FLASH READ STATUS] 0x74000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:12.735, [FLASH READ STATUS] 0x74001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:12.738, [FLASH READ STATUS] 0x74002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:12.765, [FLASH READ STATUS] 0x74003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:12.796, [FLASH READ STATUS] 0x76000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:12.800, [FLASH READ STATUS] 0x76001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:12.828, [FLASH READ STATUS] 0x76002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:12.859, [FLASH READ STATUS] 0x76003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:12.864, [FLASH READ STATUS] 0x78000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:12.890, [FLASH READ STATUS] 0x78001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:12.921, [FLASH READ STATUS] 0x78002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:12.949, [FLASH READ STATUS] 0x78003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:12.954, [FLASH READ STATUS] 0x7A000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:12.978, [FLASH READ STATUS] 0x7A001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:13.006, [FLASH READ STATUS] 0x7A002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:13.035, [FLASH READ STATUS] 0x7A003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:13.038, [FLASH READ STATUS] 0x7C000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:13.064, [FLASH READ STATUS] 0x7C001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:13.089, [FLASH READ STATUS] 0x7C002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:13.114, [FLASH READ STATUS] 0x7C003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:13.143, [FLASH READ STATUS] 0x7E000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:13.146, [FLASH READ STATUS] 0x7E001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:13.171, [FLASH READ STATUS] 0x7E002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:13.199, [FLASH READ STATUS] 0x7E003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:13.229, [FLASH READ STATUS] 0x80000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:13.233, [FLASH READ STATUS] 0x80001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:13.261, [FLASH READ STATUS] 0x80002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:13.286, [FLASH READ STATUS] 0x80003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:13.322, [FLASH READ] 0x80000 err=0 Total_err=80958
+2026-05-04 12:28:13.325, [FLASH READ STATUS] 0x82000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:13.355, [FLASH READ STATUS] 0x82001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:13.360, [FLASH READ STATUS] 0x82002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:13.385, [FLASH READ STATUS] 0x82003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:13.417, [FLASH READ STATUS] 0x84000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:13.444, [FLASH READ STATUS] 0x84001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:13.447, [FLASH READ STATUS] 0x84002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:13.479, [FLASH READ STATUS] 0x84003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:13.499, [FLASH READ STATUS] 0x86000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:13.527, [FLASH READ STATUS] 0x86001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:13.531, [FLASH READ STATUS] 0x86002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:13.557, [FLASH READ STATUS] 0x86003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:13.581, [FLASH READ STATUS] 0x88000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:13.604, [FLASH READ STATUS] 0x88001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:13.630, [FLASH READ STATUS] 0x88002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:13.666, [FLASH READ STATUS] 0x88003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:13.672, [FLASH READ STATUS] 0x8A000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:13.699, [FLASH READ STATUS] 0x8A001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:13.704, [FLASH READ STATUS] 0x8A002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:13.730, [FLASH READ STATUS] 0x8A003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:13.761, [FLASH READ STATUS] 0x8C000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:13.792, [FLASH READ STATUS] 0x8C001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:13.796, [FLASH READ STATUS] 0x8C002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:13.822, [FLASH READ STATUS] 0x8C003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:13.853, [FLASH READ STATUS] 0x8E000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:13.857, [FLASH READ STATUS] 0x8E001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:13.885, [FLASH READ STATUS] 0x8E002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:13.917, [FLASH READ STATUS] 0x8E003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:13.921, [FLASH READ STATUS] 0x90000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:13.949, [FLASH READ STATUS] 0x90001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:13.981, [FLASH READ STATUS] 0x90002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:13.985, [FLASH READ STATUS] 0x90003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:14.011, [FLASH READ] 0x90000 err=0 Total_err=80958
+2026-05-04 12:28:14.042, [FLASH READ STATUS] 0x92000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:14.073, [FLASH READ STATUS] 0x92001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:14.079, [FLASH READ STATUS] 0x92002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:14.105, [FLASH READ STATUS] 0x92003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:14.135, [FLASH READ STATUS] 0x94000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:14.140, [FLASH READ STATUS] 0x94001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:14.166, [FLASH READ STATUS] 0x94002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:14.198, [FLASH READ STATUS] 0x94003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:14.203, [FLASH READ STATUS] 0x96000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:14.230, [FLASH READ STATUS] 0x96001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:14.261, [FLASH READ STATUS] 0x96002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:14.293, [FLASH READ STATUS] 0x96003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:14.298, [FLASH READ STATUS] 0x98000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:14.324, [FLASH READ STATUS] 0x98001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:14.356, [FLASH READ STATUS] 0x98002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:14.361, [FLASH READ STATUS] 0x98003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:14.388, [FLASH READ STATUS] 0x9A000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:14.421, [FLASH READ STATUS] 0x9A001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:14.426, [FLASH READ STATUS] 0x9A002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:14.453, [FLASH READ STATUS] 0x9A003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:14.485, [FLASH READ STATUS] 0x9C000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:14.489, [FLASH READ STATUS] 0x9C001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:14.516, [FLASH READ STATUS] 0x9C002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:14.548, [FLASH READ STATUS] 0x9C003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:14.581, [FLASH READ STATUS] 0x9E000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:14.585, [FLASH READ STATUS] 0x9E001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:14.612, [FLASH READ STATUS] 0x9E002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:14.643, [FLASH READ STATUS] 0x9E003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:14.647, [FLASH READ STATUS] 0xA0000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:14.674, [FLASH READ STATUS] 0xA0001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:14.706, [FLASH READ STATUS] 0xA0002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:14.709, [FLASH READ STATUS] 0xA0003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:14.736, [FLASH READ] 0xA0000 err=0 Total_err=80958
+2026-05-04 12:28:14.769, [FLASH READ STATUS] 0xA2000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:14.773, [FLASH READ STATUS] 0xA2001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:14.800, [FLASH READ STATUS] 0xA2002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:14.832, [FLASH READ STATUS] 0xA2003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:14.836, [FLASH READ STATUS] 0xA4000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:14.863, [FLASH READ STATUS] 0xA4001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:14.894, [FLASH READ STATUS] 0xA4002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:14.925, [FLASH READ STATUS] 0xA4003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:14.930, [FLASH READ STATUS] 0xA6000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:14.958, [FLASH READ STATUS] 0xA6001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:14.988, [FLASH READ STATUS] 0xA6002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:14.992, [FLASH READ STATUS] 0xA6003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:15.018, [FLASH READ STATUS] 0xA8000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:15.049, [FLASH READ STATUS] 0xA8001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:15.053, [FLASH READ STATUS] 0xA8002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:15.081, [FLASH READ STATUS] 0xA8003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:15.112, [FLASH READ STATUS] 0xAA000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:15.141, [FLASH READ STATUS] 0xAA001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:15.144, [FLASH READ STATUS] 0xAA002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:15.173, [FLASH READ STATUS] 0xAA003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:15.204, [FLASH READ STATUS] 0xAC000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:15.208, [FLASH READ STATUS] 0xAC001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:15.235, [FLASH READ STATUS] 0xAC002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:15.266, [FLASH READ STATUS] 0xAC003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:15.270, [FLASH READ STATUS] 0xAE000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:15.298, [FLASH READ STATUS] 0xAE001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:15.328, [FLASH READ STATUS] 0xAE002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:15.331, [FLASH READ STATUS] 0xAE003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:15.358, [FLASH READ STATUS] 0xB0000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:15.386, [FLASH READ STATUS] 0xB0001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:15.415, [FLASH READ STATUS] 0xB0002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:15.418, [FLASH READ STATUS] 0xB0003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:15.444, [FLASH READ] 0xB0000 err=0 Total_err=80958
+2026-05-04 12:28:15.469, [FLASH READ STATUS] 0xB2000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:15.494, [FLASH READ STATUS] 0xB2001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:15.524, [FLASH READ STATUS] 0xB2002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:15.529, [FLASH READ STATUS] 0xB2003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:15.552, [FLASH READ STATUS] 0xB4000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:15.575, [FLASH READ STATUS] 0xB4001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:15.602, [FLASH READ STATUS] 0xB4002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:15.625, [FLASH READ STATUS] 0xB4003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:15.652, [FLASH READ STATUS] 0xB6000 err=0 expected_data=0 Read_Data=0 Total_err=80958
+2026-05-04 12:28:15.656, [FLASH READ STATUS] 0xB6001 err=0 expected_data=1 Read_Data=1 Total_err=80958
+2026-05-04 12:28:15.680, [FLASH READ STATUS] 0xB6002 err=0 expected_data=2 Read_Data=2 Total_err=80958
+2026-05-04 12:28:15.704, [FLASH READ STATUS] 0xB6003 err=0 expected_data=3 Read_Data=3 Total_err=80958
+2026-05-04 12:28:26.629, [WATCHDOG][FLASH] no data for 10s
